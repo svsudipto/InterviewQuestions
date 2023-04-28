@@ -2,7 +2,7 @@
 
 The weather right now is too hot to handle. Let's travel somewhere to cool off. 
 
-We have the latitude of longitude of all districts of Bangladesh here: 
+We have the latitude and longitude of all the districts of Bangladesh here: 
 ```
 https://raw.githubusercontent.com/svsudipto/bangladesh-geojson/master/bd-districts.json
 ```
