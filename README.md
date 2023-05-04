@@ -24,7 +24,7 @@ Now let's get to the interesting part.
 
 2. Now as we got the list, where do you want to travel? 
 
-3. Let's say your friend want to travel as well and want your help. Let's create an API where you take your friend's location, their destination, and the date of travel. Compare the temperature of those two locations on that and at 2 PM and return a response deciding if they should travel there or not? 
+3. Let's say your friend want to travel as well and want your help. Let's create an API where you take your friend's location, their destination, and the date of travel. Compare the temperature of those two locations at 2 PM on that day and return a response deciding if they should travel there or not.
 
 ### Deliverables
 
